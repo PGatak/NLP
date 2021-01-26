@@ -1,6 +1,7 @@
 __pycache__/
 source/
 predictions/
+.ipynb_checkpoints/
 *.html
 *.pdf
 *.txt
